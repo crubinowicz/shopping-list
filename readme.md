@@ -2,3 +2,5 @@
 - eggs
 - milk
 - popcorn
+- chips
+- salsa
