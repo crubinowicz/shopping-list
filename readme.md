@@ -1,0 +1,4 @@
+- steak
+- eggs
+- milk
+- popcorn
